@@ -11,10 +11,12 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Android App projects
 - 🤔 I’m looking for help with spring bugs
 - 💬 Ask me about ... Java, Web3, Andriod dev
-- 📫 How to reach me: 
+- 📫 How to reach me:
 <ul>
-  <li>Instagram https://www.instagram.com/amaan_lari_/</li><br>
-  <li>LinkedIn  https://www.linkedin.com/in/amaan-lari</li>
+  <ul>
+    <li>Instagram https://www.instagram.com/amaan_lari_/</li><br>
+    <li>LinkedIn  https://www.linkedin.com/in/amaan-lari</li>
+  </ul>
 </ul>
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: ... Github - 'The largest open source community in the world' is not open source.
